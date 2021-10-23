@@ -1,6 +1,8 @@
 one SBU = approx 2m54s (tested on binutils)
 -----------
 time for compilation
-binutils - 2m54s
+binutils pass 1 - 2m54s
 gcc run 1 - 27m12s
 glibc - 9m41s
+gcc run 2 - 26m27s
+
